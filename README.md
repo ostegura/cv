@@ -1,2 +1,2 @@
 # cv
-My CV
+Oleksandr Stegura Junior Python developer CV

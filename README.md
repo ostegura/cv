@@ -1,2 +1,1 @@
-# cv
-Oleksandr Stegura Junior Python developer CV
+# Oleksandr Stegura Junior Python developer CV
